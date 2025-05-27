@@ -123,22 +123,6 @@ We recommend combining both methods:
 - Python 3.8+
 - Required packages listed in `requirements.txt`
 
-### Installation
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Configure paths in `config.py`
-
-### Running Tests
-```bash
-python -m pytest tests/
-```
-
-### Running Backtests
-```bash
-python scripts/run_backtest.py --test_months 3 --price_range 0.2 --price_steps 5
-```
-
----
 
 ## Project Structure
 
