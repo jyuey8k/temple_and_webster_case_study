@@ -184,3 +184,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data Related Files
+
+.csv
+.png
+.lic
+.pkl
+.joblib
